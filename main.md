@@ -1,4 +1,0 @@
-- 👋 Hi, I’m @fwuffyboi
-- 👀 I’m interested in ddos attacks and cybersecurity
-- 🌱 I’m currently learning python and golang (occasionally)
-- 📫 How to reach me, fluffwolff@gmail.com OR biscuitisnotacookie@protonmail.com
