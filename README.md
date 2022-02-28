@@ -1,8 +1,9 @@
-### Hewo.
+### Hewo!
 
 - Im fwuffyboi, or Ash. I code stupid/dumb stuff.
-- At the time of writing, i am working on like 4 projects such as "cosmos-cat" and "PTG" to name a few.
+- At the time of writing, i am working on like 4 projects such as "cosmos-cat" and "PROJECT-FRNN", an ai twitter furry. 
+- dont ask.
+
 - You can ask me about ANY of my projects, tho i doubt you'd want to.
-- I can be reached at "biscuitisnotacookie@protonmail.com"
-- Pronouns: none. please do not refer to me. better yet, do not percieve me. for practical reasons i dont exist.
+- I can be reached at "biscuitisnotacookie@protonmail.com" or "fwuffyboi" on twitter.
 - Fun fact: im am (sadly) a furry.
