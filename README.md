@@ -1,8 +1,13 @@
-### Hewo!
+# 👋 Hewo!
+### 📚 My GitHub Stats
+[![Fwuffyboi's GitHub stats](https://github-readme-stats.vercel.app/api?username=fwuffyboi)](https://github.com/anuraghazra/github-readme-stats)
 
-- Im fwuffyboi, or Ash. I code stupid/dumb stuff.
-- At the time of writing, i am working on like 4 projects such as "cosmos-cat" and "PROJECT-FRNN", an ai twitter furry. dont ask.
+## 📝 About Me
+#### Hello, i'm fwuffyboi, or Ash
+#### I work on ambitious projects that normally dont get completed
+#### At the time of writing, i am thinking of an idea for my discontinued social media project: [![The Cosmos-Cat Site](https://cosmos-cat.ml)](https://cosmos-cat.ml) [![The Cosmos-Cat GitHub](https://github.com/fwuffyboi/NCMCT)](https://github.com/fwuffyboi/NCMCT)
+#### I also periodically work on my furry ai: "PROJECT-FRNN". That is if I don't get angry at my own project file organisation
 
-- You can ask me about ANY of my projects, tho i doubt you'd want to.
-- I can be reached at "biscuitisnotacookie@protonmail.com" or "fwuffyboi" on twitter.
-- Fun fact: im am (sadly) a furry.
+## 🗃️ Contacts
+#### I have a linktr.ee page: [![linktr.ee/fwuffyboi](https://linktr.ee/fwuffyboi)](https://linktr.ee/fwuffyboi)
+#### I can be reached at: [![biscuitisnotacookie@protonmail.com](mailto:biscuitisnotacookie@protonmail.com)](mailto:biscuitisnotacookie@protonmail.com)
