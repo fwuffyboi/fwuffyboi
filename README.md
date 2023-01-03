@@ -1,6 +1,6 @@
 # 👋 Hello, world!
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/773466452661108747)](https://discord.com/users/773466452661108747)
+[![Discord Presence](https://lanyard.cnrad.dev/api/773466452661108747)](https://discord.com/users/773466452661108747)
 
 ## 📝 About Me
 #### Hello, I'm Ashley.
