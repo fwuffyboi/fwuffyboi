@@ -1,5 +1,7 @@
 # 👋 Hello, world!
 
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/773466452661108747)](https://discord.com/users/773466452661108747)
+
 ## 📝 About Me
 #### Hello, I'm Ashley.
 #### I currently operate two personal servers, and I use arch btw.
