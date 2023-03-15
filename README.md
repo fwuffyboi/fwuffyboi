@@ -6,7 +6,7 @@
 Hello, I'm Ashley, and this is my GitHub account with all my projects. I like music, tech in general and cats.
 
 My hobbies consist of:
- - Listening to music ([Here are my horrible music choices put on a pretty graph](https://ys.fwuffyboi.ml/?gname=Last+week&token=6e3b2f41-968d-4c5a-897e-97aa60f033b5))
+ - Listening to music ([Here are my horrible music choices put on a pretty graph](https://ys.fwuffyboi.xyz/all?gname=Last+week&token=6447610b-c711-4de0-ba1c-b761a2f0ca15))
  - Watching films/TV shows (my fav show is "How to sell drugs online (fast)")
  - Server administration and running my own services
 
