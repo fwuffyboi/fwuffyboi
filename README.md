@@ -13,7 +13,7 @@ My hobbies consist of:
 ## 🖥️ What equipment I use:
  - 1x Raspberry pi 4B+ 4GB ram
  - 1x Raspberry pi 4B+ 4GB ram with Argon40 EON NAS case
- - Thinkpad T480s with EndeavourOS
+ - Thinkpad T480s with Fedora Workstation
  - Pixel 6a with GrapheneOS
 
 ## 🗃️ Contacts
