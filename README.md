@@ -19,4 +19,4 @@ My hobbies consist of:
 ## 🗃️ Contacts
 I am contactable on Discord and by email. Either is fine, however discord is checked more often, and I will reply quicker.
  - Email:   [biscuitisnotacookie@protonmail.com](mailto:biscuitisnotacookie@protonmail.com)
- - Discord: [fwuffyboi#1556](https://discord.com/users/773466452661108747)
+ - Discord: [ashleycaramel](https://discord.com/users/773466452661108747)
