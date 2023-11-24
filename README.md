@@ -4,6 +4,9 @@
 
 ## 📝 About Me
 Hello, I'm Ashley, and this is my GitHub account with all my projects. I like music, tech in general and cats.
+I control and manage the domain names and servers behind:
+ - Skrunkle.cloud
+ - Fwuffyboi.xyz
 
 My hobbies consist of:
  - Listening to music ([Here are my horrible music preferences from the past week laid out onto a pretty (selfhosted) graph](https://ys.fwuffyboi.xyz/all?gname=Last+week&token=6447610b-c711-4de0-ba1c-b761a2f0ca15))
