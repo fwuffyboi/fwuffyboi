@@ -6,9 +6,9 @@
 Hello, I'm Ashley, and this is my GitHub account with all my projects. I like music, tech in general and cats.
 
 My hobbies consist of:
- - Listening to music ([Here are my horrible music choices put on a pretty graph](https://ys.fwuffyboi.xyz/all?gname=Last+week&token=6447610b-c711-4de0-ba1c-b761a2f0ca15))
- - Watching films/TV shows (my fav show is "How to sell drugs online (fast)")
- - Server administration and running my own services
+ - Listening to music ([Here are my horrible music preferences from the past week laid out onto a pretty (selfhosted) graph](https://ys.fwuffyboi.xyz/all?gname=Last+week&token=6447610b-c711-4de0-ba1c-b761a2f0ca15))
+ - Watching films/TV shows (my fav shows are "How to sell drugs online (fast)", and "Money Heist")
+ - Learning about Server administration and cybersecurity
 
 ## 🖥️ What equipment I use:
  - 1x Raspberry pi 4B+ 4GB ram
