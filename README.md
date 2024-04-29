@@ -24,6 +24,7 @@ My hobbies consist of:
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=bmtzppmqwwpt1sxgooxghmi3s&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=bmtzppmqwwpt1sxgooxghmi3s&redirect=true)
 
 ## 🗃️ Contacts
-I am contactable on Discord and by email. Either is fine, however discord is checked more often, and I will reply quicker.
+Any of the below are fine, however discord and telegram are checked more often, and I will reply quicker.
  - Email:   [biscuitisnotacookie@protonmail.com](mailto:biscuitisnotacookie@protonmail.com)
  - Discord: [ashleycaramel](https://discord.com/users/773466452661108747)
+ - Telegram: [eshlikaramel](https://t.me/eshlikaramel)
